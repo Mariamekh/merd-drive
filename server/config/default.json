@@ -1,0 +1,5 @@
+{
+    "serverPort": 8000,
+    "dbUrl":"mongodb+srv://mongoUser:1234567890@cloud.kcmya.mongodb.net/mern-cloud?retryWrites=true&w=majority",
+    "secretKey":"mern-secret-key"
+}
